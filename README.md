@@ -1,2 +1,3 @@
 # Nadim_demo
-th9s is my first Git repository
+this is my first Git repository
+Authar_ Nadim
